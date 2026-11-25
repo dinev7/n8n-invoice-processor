@@ -1,5 +1,7 @@
 # n8n-invoice-processor
 
+<img width="1332" height="387" alt="Screenshot 2026-11-25 at 19 26 27" src="https://github.com/user-attachments/assets/5da330a8-19ef-4500-808d-b12e1eeaa59b" />
+
 Flujo de trabajo en n8n que lee facturas en PDF desde Google Drive, extrae datos fiscales e inmobiliarios clave mediante un LLM (Groq / Qwen 3) y guarda cada factura como una fila en Google Sheets.
 
 ## Cómo funciona
